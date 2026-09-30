@@ -1,0 +1,7 @@
+medmnist
+numpy
+pandas
+duckdb
+matplotlib
+scikit-learn
+jupyter
